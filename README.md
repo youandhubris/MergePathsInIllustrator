@@ -1,8 +1,3 @@
-Merge_Paths_in_Illustrator
-==========================
-
-[Illustrator Script] Merge paths exported from openFrameworks or Processsing
-
 ## Merge Paths in Illustrator
 
 BY [HUBRIS](http://cargocollective.com/hubris "See more of Hubris ->")  
