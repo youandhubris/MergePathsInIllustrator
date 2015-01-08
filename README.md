@@ -1,4 +1,4 @@
-## Merge Paths in Illustrator
+## Merge paths exported from openFrameworks in Illustrator
 
 BY [HUBRIS](http://cargocollective.com/hubris "See more of Hubris ->")  
 PORTO · JANUARY 2015 
